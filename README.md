@@ -1,5 +1,5 @@
-# nemesis infinity
-Pretext: What if your system could automatically build deploy scale switch route plan design and code ? What code r u sure about that? Then what would we do? We would then study nature to explain them how does the nature work and what does happiness means .. :-/
+# Scalar Bus v 1.0
+Pretext: Application provisioning software to automatically build deploy scale switch route plan design and code snippet manipulation via workflows
 
 Oringinal docs reference: Uses V8 Stack, Node Js, Sails JS, Express JS, Mongo DB, Redis,  Angular JS, App Reactive, Heroku, React JS
 
