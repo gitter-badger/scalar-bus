@@ -1,4 +1,6 @@
 # Scalar Bus v 1.0
+
+[![Join the chat at https://gitter.im/Sunny-Github/scalar-bus](https://badges.gitter.im/Sunny-Github/scalar-bus.svg)](https://gitter.im/Sunny-Github/scalar-bus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Pretext: Application provisioning software to automatically build deploy scale switch route plan design and code snippet manipulation via workflows
 
 Oringinal docs reference: Uses V8 Stack, Node Js, Sails JS, Express JS, Mongo DB, Redis,  Angular JS, App Reactive, Heroku, React JS
